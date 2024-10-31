@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Quangeagle</h1>
 <h3 align="center">Real name is Pham Van Hao Quang from Viet Nam . I learn IT in Huflit University</h3>
-![Logo] (https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m0mhaugxlymn64@resize_w450_nl.webp)
-![Ảnh chụp màn hình 2024-06-13 213537](https://github.com/user-attachments/assets/121400c1-8ae2-4cec-99f0-446f1604e4b6)
+![Logo](https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m0mhaugxlymn64@resize_w450_nl.webp)
+![Ảnh chụp màn hình](https://github.com/user-attachments/assets/121400c1-8ae2-4cec-99f0-446f1604e4b6)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quangeagle&label=Profile%20views&color=0e75b6&style=flat" alt="quangeagle" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quangeagle" alt="quangeagle" /></a> </p>
