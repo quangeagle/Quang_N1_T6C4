@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quangeagle</h1>
 <h3 align="center">Real name is Pham Van Hao Quang from Viet Nam . I learn IT in Huflit University</h3>
 ![Logo](https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m0mhaugxlymn64@resize_w450_nl.webp)
-![Ảnh chụp màn hình](https://github.com/user-attachments/assets/121400c1-8ae2-4cec-99f0-446f1604e4b6)
+![Ảnh chụp màn hình]([https://github.com/user-attachments/assets/121400c1-8ae2-4cec-99f0-446f1604e4b6](https://private-user-images.githubusercontent.com/144868721/381844004-7b454d3f-17a5-462f-aadb-dcb152fdb17a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAzNTU0NDAsIm5iZiI6MTczMDM1NTE0MCwicGF0aCI6Ii8xNDQ4Njg3MjEvMzgxODQ0MDA0LTdiNDU0ZDNmLTE3YTUtNDYyZi1hYWRiLWRjYjE1MmZkYjE3YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAzMVQwNjEyMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZDg2M2Y1ZmIyMDQwY2JiZmVhZmEwZTcxYzE0Y2VkMTViNTM5MDNlZGE2MDBmNDcyNGE1OTZjNTMzN2IzM2E1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.XkxKSFVSewxKQ09ffcn2JlVCC81Oxuj7uW7BD21mpek))
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quangeagle&label=Profile%20views&color=0e75b6&style=flat" alt="quangeagle" /> </p>
 
