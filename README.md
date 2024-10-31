@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Quangeagle</h1>
 <h3 align="center">Real name is Pham Van Hao Quang from Viet Nam . I learn IT in Huflit University</h3>
-
+<a href="#" target="_blank">
+  <img src="svg/Haoquang.svg" width="1200" />
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quangeagle&label=Profile%20views&color=0e75b6&style=flat" alt="quangeagle" /> </p>
 
@@ -28,10 +30,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quangeagle&show_icons=true&theme=dark&locale=en&layout=compact" alt="quangeagle" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quangeagle&show_icons=true&locale=en" alt="quangeagle" /></p>
-<!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="svg/Haoquang.svg" width="1200" />
-</a>
+
+
 
 <h2 >🛠 Technologies and Tools 🛠</h2>
 <br>
